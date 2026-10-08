@@ -1,0 +1,1 @@
+nose que estoy asiendos vs code tuto
